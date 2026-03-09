@@ -39,7 +39,7 @@ num = 10
 # num= num + 5
 num += 10 
 num *=5
-print(num) #15
+print(num) #100
 
 # logical operators
 a=50
