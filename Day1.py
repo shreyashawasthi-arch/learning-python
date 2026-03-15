@@ -24,7 +24,7 @@ quotient = a/b
 print(sum)
 print(quotient)
 print(a**b) # exponentiation
-print(a%b) # modulus
+print(a%b) # modulus : it gives the remainder when a is divided by b
 # comparison operators
 
 a=50
