@@ -48,7 +48,7 @@ b=10
 print(not(a>b)) #False
 
 val1= True
-val2= False
+val2= False #False F should be in capital letter
 print ("and operator: ", val1 and val2) #False
 print ("or operator: ", val1 or val2) #True
 
@@ -81,7 +81,7 @@ print(a+b) #14.5
 
 # Q2 Write a program to input side of a square and print its area
 
-# a= int(input("enter length of the side of the square:"))
+# a= int(input("enter length of the side of the square: "))
 # print("the area of the square is:", a*a)
 
 # Q3 write a program to input two floating point number and print their average
