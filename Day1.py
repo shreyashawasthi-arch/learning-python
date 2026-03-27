@@ -9,6 +9,7 @@ print("the price is", price)
 print(type(name))
 print(type(price))
 print(expensive)
+print(type(expensive))
 
 # this is comment
 '''this is multilene
